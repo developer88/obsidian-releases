@@ -51049,5 +51049,13 @@
     "author": "KuMoo",
     "description": "日历视图：阳历/农历、黄历宜忌与12时辰吉凶、全库文件活动时间线。Calendar with lunar dates, almanac luck hours, and file activity timeline. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kumoonet/obsidian-kumoo-calendar"
+  },
+  {
+    "id": "agy-in-obsidian",
+    "name": "AI Chat",
+    "author": "Andrey",
+    "description": "Native AI chat sidebar supporting Google Antigravity, GitHub Copilot, and local AI CLI providers with zero API tokens needed.",
+    "repo": "developer88/obsidian-ai-chat-extension"
   }
 ]
+
