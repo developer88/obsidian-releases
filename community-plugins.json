@@ -51051,12 +51051,13 @@
     "repo": "kumoonet/obsidian-kumoo-calendar"
   },
   {
-    "id": "obsidian-ai-chat-extension",
+    "id": "ai-chat",
     "name": "AI Chat",
     "author": "Andrey",
     "description": "Native AI chat sidebar supporting Google Antigravity, GitHub Copilot, and local AI CLI providers with zero API tokens needed.",
     "repo": "developer88/obsidian-ai-chat-extension"
   }
 ]
+
 
 
